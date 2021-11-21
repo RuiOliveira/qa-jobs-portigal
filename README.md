@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 20 Nov 2021 01:02_
+> _Last updated: Sun, 21 Nov 2021 01:05_
 
 ### ItJobs
 
@@ -150,10 +150,10 @@ Jobs
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/411575/quality-assurance-automation)
 
 
+- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/410490/quality-assurance-consultant)
+
+
 - **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/412850/quality-assurance-analyst)
-
-
-- **Quality Assurance - Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/409493/quality-assurance-tester)
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/409968/test-automation-engineer)
@@ -306,9 +306,6 @@ Jobs
 
 
 - **Senior Network Test Engineer (3G/4G-LTE/IMS/5G)** @_Qualitest_ [here](https://www.itjobs.pt/oferta/411517/10127-senior-network-test-engineer-3g-4g-lte-ims-5g)
-
-
-- **Software Test Engineer** @_November First_ [here](https://www.itjobs.pt/oferta/409105/test-engineer)
 
 
 - **Quality Assurance Manager - EMEA** @_be one solutions_ [here](https://www.itjobs.pt/oferta/412941/quality-assurance-manager-emea)
