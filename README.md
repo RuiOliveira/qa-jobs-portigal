@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 18 Jan 2022 01:12_
+> _Last updated: Wed, 19 Jan 2022 01:03_
 
 ### ItJobs
 
@@ -186,6 +186,9 @@ Jobs
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/417246/automation-tester)
 
 
+- **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/418501/quality-assurance-engineering-manager)
+
+
 - **Quality Assurance Engineer** @_Withus_ [here](https://www.itjobs.pt/oferta/417898/quality-assurance-engineer)
 
 
@@ -193,9 +196,6 @@ Jobs
 
 
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/416036/test-automation-engineer)
-
-
-- **Qulaity Assurance Engineer** @_Optiply_ [here](https://www.itjobs.pt/oferta/418620/qulaity-assurance-engineer)
 
 
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/417216/technical-engineer-junior-test-automation-portugal)
@@ -308,6 +308,9 @@ Jobs
 - **Quality Assurance Analyst** @_Mindera_ [here](https://www.itjobs.pt/oferta/415130/quality-assurance-analyst)
 
 
+- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/418703/qa-consultant)
+
+
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/418289/mobile-test-automation-engineer)
 
 
@@ -321,6 +324,9 @@ Jobs
 
 
 - **Test Manager** @_BOLD International_ [here](https://www.itjobs.pt/oferta/415985/test-manager)
+
+
+- **Software Engineer QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/417821/software-engineer-qae)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/418446/front-end-test-automation-engineer)
