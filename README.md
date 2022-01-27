@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 26 Jan 2022 01:12_
+> _Last updated: Thu, 27 Jan 2022 01:06_
 
 ### ItJobs
 
@@ -94,10 +94,10 @@ Jobs
 
 #### Braga
 
-- **Engineering Lead - Test Automation - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/419802/engineering-lead-test-automation-farfetch-platform-solutions)
-
-
 - **Software Tester** @_C. Steinweg_ [here](https://www.itjobs.pt/oferta/419169/software-tester)
+
+
+- **Engineering Lead - Test Automation - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/419802/engineering-lead-test-automation-farfetch-platform-solutions)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/418349/qa-engineer)
@@ -175,6 +175,9 @@ Jobs
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/416093/qa-automation-tester)
+
+
+- **Quality Assurance Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/420125/quality-assurance-automation)
 
 
 - **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/417337/qa-automation-engineer)
@@ -384,9 +387,6 @@ Jobs
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/419256/quality-assurance-analyst-mobile)
-
-
-- **Software Engineer QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/417821/software-engineer-qae)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/418446/front-end-test-automation-engineer)
