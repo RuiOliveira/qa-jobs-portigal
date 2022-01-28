@@ -36,16 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 27 Jan 2022 01:06_
+> _Last updated: Fri, 28 Jan 2022 01:05_
 
 ### ItJobs
 
 #### Aveiro
 
-- **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/416146/automation-tester)
-
-
 - **Software Tester** @_C. Steinweg_ [here](https://www.itjobs.pt/oferta/419169/software-tester)
+
+
+- **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/416146/automation-tester)
 
 
 - **Quality Assurance Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/417107/quality-assurance-analyst)
@@ -143,10 +143,10 @@ Jobs
 - **Senior QA Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/418008/senior-qa-engineer-porto)
 
 
-- **Senior Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/417497/senior-quality-assurance-engineer)
-
-
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/418445/test-automation-engineer)
+
+
+- **Quality Assurance (QA) Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/420114/quality-assurance-qa-engineer)
 
 #### Lisboa
 
@@ -193,9 +193,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Optiply_ [here](https://www.itjobs.pt/oferta/418620/qulaity-assurance-engineer)
-
-
-- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/416568/quality-assurance-analyst)
 
 
 - **Software Tester** @_C. Steinweg_ [here](https://www.itjobs.pt/oferta/419169/software-tester)
@@ -289,9 +286,6 @@ Jobs
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/419718/quality-assurance-analyst)
 
 
-- **Software Tester** @_C. Steinweg_ [here](https://www.itjobs.pt/oferta/419169/software-tester)
-
-
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/416146/automation-tester)
 
 
@@ -333,9 +327,6 @@ Jobs
 #### Remote
 
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/419718/quality-assurance-analyst)
-
-
-- **Software Tester** @_C. Steinweg_ [here](https://www.itjobs.pt/oferta/419169/software-tester)
 
 
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/416146/automation-tester)
