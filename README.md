@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 08 Feb 2024 01:08_
+> _Last updated: Fri, 09 Feb 2024 01:08_
 
 ### ItJobs
 
@@ -77,6 +77,9 @@ Jobs
 - **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477462/quality-tester-coimbra-covilha-guarda)
 
 #### Lisboa
+
+- **Quality Assurance Officer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478687/quality-assurance-officer)
+
 
 - **Automation Tester w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/478074/automation-tester-w-french)
 
