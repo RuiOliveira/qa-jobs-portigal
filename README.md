@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 23 Apr 2024 01:12_
+> _Last updated: Wed, 24 Apr 2024 01:13_
 
 ### ItJobs
 
@@ -81,6 +81,9 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
+- **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/482533/automation-engineer-data-tester)
+
+
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
 
 
@@ -100,6 +103,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481343/qa-automation-engineer)
+
+
+- **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/482468/quality-assurance-consultant)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481764/automation-tester)
@@ -174,6 +180,9 @@ Jobs
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/482208/quality-assurance-tester)
+
+
+- **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482138/qa-tester-lisbon)
 
 
 - **Firmware Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482097/firmware-tester)
