@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 26 Apr 2024 01:12_
+> _Last updated: Sat, 27 Apr 2024 01:11_
 
 ### ItJobs
 
@@ -81,6 +81,9 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
+- **Business Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/481978/business-tester)
+
+
 - **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/482533/automation-engineer-data-tester)
 
 
@@ -100,6 +103,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481343/qa-automation-engineer)
+
+
+- **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482141/business-manager-quality-assurance-it-lisboa)
 
 
 - **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/482468/quality-assurance-consultant)
@@ -145,6 +151,9 @@ Jobs
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
 
 
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481649/quality-tester-porto)
+
+
 - **QA Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/480120/qa-engineer)
 
 
@@ -186,6 +195,9 @@ Jobs
 
 
 - **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481649/quality-tester-porto)
+
+
+- **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482141/business-manager-quality-assurance-it-lisboa)
 
 
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/481533/senior-software-developer-engineer-in-test)
