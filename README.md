@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 02 May 2024 01:12_
+> _Last updated: Fri, 03 May 2024 01:15_
 
 ### ItJobs
 
@@ -67,6 +67,12 @@ Jobs
 - **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481809/qa-automation-engineer)
 
 #### Coimbra
+
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482560/quality-tester-coimbra-covilha-guarda)
+
+
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482697/consultor-de-testes-de-automacao-all-locations)
+
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
 
@@ -102,6 +108,9 @@ Jobs
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481343/qa-automation-engineer)
 
 
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482697/consultor-de-testes-de-automacao-all-locations)
+
+
 - **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482141/business-manager-quality-assurance-it-lisboa)
 
 
@@ -118,9 +127,6 @@ Jobs
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/482594/quality-assurance-tester)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
 
 
 - **Quality Assurance Consultant** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/482215/quality-assurance-consultant)
@@ -148,7 +154,7 @@ Jobs
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
 
 
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481649/quality-tester-porto)
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482697/consultor-de-testes-de-automacao-all-locations)
 
 
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/481533/senior-software-developer-engineer-in-test)
@@ -191,7 +197,7 @@ Jobs
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
 
 
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481649/quality-tester-porto)
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482697/consultor-de-testes-de-automacao-all-locations)
 
 
 - **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482141/business-manager-quality-assurance-it-lisboa)
