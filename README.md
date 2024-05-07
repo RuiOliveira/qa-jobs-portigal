@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 06 May 2024 01:14_
+> _Last updated: Tue, 07 May 2024 01:14_
 
 ### ItJobs
 
@@ -111,6 +111,9 @@ Jobs
 - **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482141/business-manager-quality-assurance-it-lisboa)
 
 
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482927/qae)
+
+
 - **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/482468/quality-assurance-consultant)
 
 
@@ -127,9 +130,6 @@ Jobs
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
-
-
-- **Quality Assurance Consultant** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/482215/quality-assurance-consultant)
 
 #### Porto
 
@@ -154,7 +154,13 @@ Jobs
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482697/consultor-de-testes-de-automacao-all-locations)
 
 
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481649/quality-tester-porto)
+
+
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/481533/senior-software-developer-engineer-in-test)
+
+
+- **Tester** @_Cleva Inetum_ [here](https://www.itjobs.pt/oferta/483017/test-analyst)
 
 
 - **Quality Assurance Analyst (w/ French)** @_Aubay_ [here](https://www.itjobs.pt/oferta/481971/quality-assurance-analyst-w-french)
@@ -198,6 +204,9 @@ Jobs
 
 
 - **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482141/business-manager-quality-assurance-it-lisboa)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482927/qae)
 
 
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/481533/senior-software-developer-engineer-in-test)
