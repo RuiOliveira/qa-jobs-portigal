@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 10 May 2024 01:14_
+> _Last updated: Sat, 11 May 2024 01:13_
 
 ### ItJobs
 
@@ -123,9 +123,6 @@ Jobs
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482927/qae)
 
 
-- **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/483313/qa-automation-engineer)
-
-
 - **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/482468/quality-assurance-consultant)
 
 
@@ -138,9 +135,6 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
 
 #### Porto
-
-- **Analista de Testes / Quality Assurance Tester** @_INSIA - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/482068/analista-de-testes-quality-assurance-tester)
-
 
 - **Business Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/481978/business-tester)
 
