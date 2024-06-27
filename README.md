@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 26 Jun 2024 01:18_
+> _Last updated: Thu, 27 Jun 2024 01:18_
 
 ### ItJobs
 
@@ -75,7 +75,7 @@ Jobs
 
 #### Lisboa
 
-- **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/484874/quality-assurance-consultant)
+- **QA Engineer – Katalon Studio Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485616/qa-engineer-katalon-studio-automation-tester)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
@@ -93,13 +93,16 @@ Jobs
 - **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
 
 
-- **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
-
-
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
 
 
 - **Junior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484600/junior-quality-assurance-engineer)
+
+
+- **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
 
 
 - **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
@@ -130,22 +133,16 @@ Jobs
 
 #### Porto
 
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
-
-
-- **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/485075/qa-automatico)
-
-
-- **Quality Assurance Engineer (IT)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/484313/quality-assurance-engineer-it)
-
-
-- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
-
-
 - **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
 
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
+
+
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
@@ -154,19 +151,22 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer - Katalon / Selenium** @_Aubay_ [here](https://www.itjobs.pt/oferta/484597/quality-assurance-engineer-katalon-selenium)
 
 
+- **Quality Assurance Engineer (IT)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/484313/quality-assurance-engineer-it)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
 
 
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+
+
+- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
 
 #### Remote
 
@@ -182,9 +182,6 @@ Jobs
 - **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
 
 
-- **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
-
-
 - **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
 
 
@@ -192,6 +189,12 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
+
+
+- **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
