@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 03 Jul 2024 01:19_
+> _Last updated: Thu, 04 Jul 2024 01:19_
 
 ### ItJobs
 
@@ -102,9 +102,6 @@ Jobs
 - **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
-
-
 - **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
 
 
@@ -137,9 +134,6 @@ Jobs
 #### Porto
 
 - **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
@@ -203,9 +197,6 @@ Jobs
 - **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
-
-
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
 
 
@@ -222,4 +213,7 @@ Jobs
 
 
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+
+
+- **Intermediate Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486006/intermediate-quality-assurance-engineer)
 
