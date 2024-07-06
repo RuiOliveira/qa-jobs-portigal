@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 05 Jul 2024 01:19_
+> _Last updated: Sat, 06 Jul 2024 01:17_
 
 ### ItJobs
 
@@ -102,6 +102,9 @@ Jobs
 - **Junior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484600/junior-quality-assurance-engineer)
 
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
+
+
 - **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
 
 
@@ -136,6 +139,9 @@ Jobs
 
 #### Porto
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
+
+
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
 
 
@@ -149,6 +155,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **Junior QA Functional w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/485905/junior-qa-functional-w-french)
 
 
 - **Quality Assurance Engineer - Katalon / Selenium** @_Aubay_ [here](https://www.itjobs.pt/oferta/484597/quality-assurance-engineer-katalon-selenium)
@@ -192,6 +201,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
 
 
 - **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
