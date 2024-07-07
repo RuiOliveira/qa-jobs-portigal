@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 06 Jul 2024 01:17_
+> _Last updated: Sun, 07 Jul 2024 01:25_
 
 ### ItJobs
 
@@ -51,9 +51,6 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
 
 
@@ -62,9 +59,6 @@ Jobs
 #### Braga
 
 - **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
@@ -78,7 +72,10 @@ Jobs
 
 #### Lisboa
 
-- **QA Engineer – Katalon Studio Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485616/qa-engineer-katalon-studio-automation-tester)
+- **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
 
 
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
@@ -91,9 +88,6 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/485741/automation-tester)
-
-
-- **Mid/Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/484491/mid-senior-automation-tester)
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
@@ -129,6 +123,9 @@ Jobs
 - **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
 
 
+- **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
 
 
@@ -149,9 +146,6 @@ Jobs
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
@@ -219,6 +213,9 @@ Jobs
 
 
 - **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
+
+
+- **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
