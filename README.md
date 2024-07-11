@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 10 Jul 2024 01:20_
+> _Last updated: Thu, 11 Jul 2024 01:20_
 
 ### ItJobs
 
@@ -62,6 +62,9 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/486218/quality-assurance-engineer)
 
 
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+
+
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
 
 #### Lisboa
@@ -78,6 +81,9 @@ Jobs
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485429/software-test-automation-engineer)
 
 
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+
+
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
 
 
@@ -91,9 +97,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
-
-
-- **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/486213/qa-engineer)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
@@ -130,13 +133,13 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
 
 
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+
+
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
-
-
-- **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/485075/qa-automatico)
 
 
 - **Junior QA Functional w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/485905/junior-qa-functional-w-french)
@@ -153,6 +156,9 @@ Jobs
 #### Remote
 
 - **Quality Assurance Engineer** @_HumanIT_ [here](https://www.itjobs.pt/oferta/485817/quality-assurance-engineer)
+
+
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
 
 
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
@@ -180,9 +186,6 @@ Jobs
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
-
-
-- **Calling All Tech Sleuths! Join Our QA Team (Junior Software QA Tester)** @_ITClinical_ [here](https://www.itjobs.pt/oferta/485045/calling-all-tech-sleuths-join-our-qa-team-junior-software-qa-tester)
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
