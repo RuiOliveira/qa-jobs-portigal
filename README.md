@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 14 Jul 2024 01:26_
+> _Last updated: Mon, 15 Jul 2024 01:22_
 
 ### ItJobs
 
@@ -123,9 +123,6 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
 
 
-- **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
-
-
 - **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
 
 
@@ -207,9 +204,6 @@ Jobs
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
-
-
-- **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
 
 
 - **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
