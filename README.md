@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 16 Jul 2024 01:22_
+> _Last updated: Wed, 17 Jul 2024 01:21_
 
 ### ItJobs
 
@@ -75,6 +75,9 @@ Jobs
 
 #### Lisboa
 
+- **QA Funcional Junior** @_KWAN_ [here](https://www.itjobs.pt/oferta/486253/qa-funcional-junior)
+
+
 - **QA Engineer – Katalon Studio Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485616/qa-engineer-katalon-studio-automation-tester)
 
 
@@ -100,6 +103,9 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/485741/automation-tester)
+
+
+- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/486138/qa-automation-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/486218/quality-assurance-engineer)
