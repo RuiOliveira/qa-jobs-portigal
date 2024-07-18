@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 17 Jul 2024 01:21_
+> _Last updated: Thu, 18 Jul 2024 01:19_
 
 ### ItJobs
 
@@ -169,6 +169,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
 
 
+- **Lead QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/486170/lead-qae)
+
+
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
 
 
@@ -189,6 +192,9 @@ Jobs
 
 
 - **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
+
+
+- **Lead QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/486170/lead-qae)
 
 
 - **Lead QA** @_KWAN_ [here](https://www.itjobs.pt/oferta/485875/lead-qa)
